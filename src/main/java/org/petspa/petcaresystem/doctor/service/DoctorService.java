@@ -8,6 +8,8 @@ import org.petspa.petcaresystem.doctor.model.Doctor;
 import org.petspa.petcaresystem.doctor.model.DoctorResponseDTO;
 import org.springframework.stereotype.Service;
 
+import javax.print.Doc;
+
 @Service
 public interface DoctorService {
 
